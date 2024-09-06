@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vscode
+/GitHub - Data Structure Implementation Examples.url
+/Sequence Container Implementation Examples/DoublyLinkedList/To-Do DoublyLinkedList.hpp
+/Student/Work In Progress
+/Enhancements.docx
